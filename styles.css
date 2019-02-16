@@ -104,7 +104,7 @@ a:hover {
   margin: 30px;
   padding: 10px 40px 40px;
   max-width: 500px;
-  text-align: justify;
+  text-align: left;
   line-height: 1.4em;
   background: #fff;
   border-bottom: 4px solid #ccc;
@@ -121,7 +121,7 @@ a:hover {
 
 ul.goals {
   padding: 0;
-  text-align: justify;
+  text-align: left;
 
 }
 
